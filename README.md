@@ -32,8 +32,6 @@ Aplikasi **Web Absensi** berbasis React.js yang dikembangkan selama program maga
 - **Tailwind CSS** – Styling responsif dan modern
 - **React Router DOM** – Navigasi halaman
 - **React Toastify** – Notifikasi
-- **Axios** – Komunikasi dengan backend API
-- **Vercel** – Deployment frontend
 
 
 ## 📦 Cara Menjalankan (Development)
